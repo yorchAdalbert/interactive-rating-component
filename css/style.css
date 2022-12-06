@@ -67,7 +67,8 @@ input[type="radio"] {
     background-color: hsl(213, 19%, 18%);
 }
 
-input[type='radio']:hover {
+input[type='radio']:hover,
+input[type="submit"]:hover {
     box-shadow: 0 0 0.5rem 0px hsl(25, 97%, 53%) inset;
 }
 
@@ -101,6 +102,15 @@ input[type='submit'] {
     font-size: 1rem;
     text-transform: uppercase;
     margin-bottom: 1rem;
+}
+
+input[type="submit"]:hover {
+    background-color: hsl(213, 19%, 18%);
+    color: hsl(25, 97%, 53%);
+}
+
+input[type="submit"]:active {
+    box-shadow: 0 0 1.5rem 0px hsl(25, 97%, 53%) inset;
 }
 
 /* THANKS PAGE */
