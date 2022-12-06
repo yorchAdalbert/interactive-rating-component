@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github - yorchAdalbert](https://github.com/yorchAdalbert/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Interactive Rating Component](https://yorchadalbert.github.io/interactive-rating-component/)
 
 ### Built with
 
